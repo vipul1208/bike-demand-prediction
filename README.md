@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
 Cloning the Repository
 Clone this repository to your local machine using:
 
-git clone https://github.com/yourusername/bike-demand-prediction.git
+git clone https://github.com/vipul1208/bike-demand-prediction.git
 
 ## Usage
 
